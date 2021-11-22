@@ -1,0 +1,5 @@
+dig = input("Введите числа через запятую: ")
+sp = dig.split(',')
+tup = tuple(sp)
+print(sp)
+print(tup)
